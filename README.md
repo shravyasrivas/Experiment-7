@@ -266,7 +266,7 @@ Step 7: Stop.
 
 ### Theory
 
-The **while loop** in Python is an iterative control structure that repeatedly executes a block of code as long as a given condition remains true. It is particularly useful when the number of iterations is not fixed and depends on dynamic conditions , with break statement we can stop the loop even if the while condition is true
+The **while loop** in Python is an iterative control structure that repeatedly executes a block of code as long as a given condition remains true. It is particularly useful when the number of iterations is not fixed and depends on dynamic conditions , with break statement we can stop the loop even if the while condition is true.
 
 In this experiment, different programs were implemented using while loops to perform operations such as factorial calculation, Fibonacci series generation, palindrome checking, digit counting, list searching, and loop control using `break` and `continue`.
 
