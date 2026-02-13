@@ -136,7 +136,7 @@ Step 2: Accept number from user.
 
 Step 3: Store original number in a temporary variable.
 
-Step 4: Reverse the number using while loop.
+Step 4: Reverse the number using while loop.(  rev =rev * 10 + num % 10)
 
 Step 5: Compare reversed number with original number.
 
@@ -154,7 +154,7 @@ Step 1: Start.
 
 Step 2: Accept string from user.
 
-Step 3: Initialize two pointers `i = 0` and `j = length - 1`.
+Step 3: Initialize two pointers `i = 0` and `j = length - 1`, usimg len function.
 
 Step 4: While `i < j`, compare characters at position `i` and `j`.
 
